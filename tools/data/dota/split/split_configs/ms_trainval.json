@@ -1,0 +1,32 @@
+{
+  "nproc": 10,
+  "img_dirs": [
+    "/T2007061/gaoke/data/DOTA_V1.5/train/images/",
+    "/T2007061/gaoke/data/DOTA_V1.5/val/images/"
+  ],
+  "ann_dirs": [
+    "/T2007061/gaoke/data/DOTA_V1.5/train/labelTxt-v1.5/DOTA-v1.5_train/",
+    "/T2007061/gaoke/data/DOTA_V1.5/val/labelTxt-v1.5/DOTA-v1.5_val/"
+  ],
+  "sizes": [
+    1024
+  ],
+  "gaps": [
+    500
+  ],
+  "rates": [
+    0.5,
+    1.0,
+    1.5
+  ],
+  "img_rate_thr": 0.6,
+  "iof_thr": 0.7,
+  "no_padding": false,
+  "padding_value": [
+    104,
+    116,
+    124
+  ],
+  "save_dir": "/T2007061/gaoke/data/DOTA15_ms/trainval/",
+  "save_ext": ".png"
+}

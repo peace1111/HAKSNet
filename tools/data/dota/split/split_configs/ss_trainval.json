@@ -1,0 +1,30 @@
+{
+  "nproc": 10,
+  "img_dirs": [
+    "/T2007061/CTGUdataset/object_detection/CTGUdetec/train/img/",
+    "/T2007061/CTGUdataset/object_detection/CTGUdetec/val/img/"
+  ],
+  "ann_dirs": [
+    "/T2007061/CTGUdataset/object_detection/CTGUdetec/train/label/",
+    "/T2007061/CTGUdataset/object_detection/CTGUdetec/val/label/"
+  ],
+  "sizes": [
+    1024
+  ],
+  "gaps": [
+    200
+  ],
+  "rates": [
+    1.0
+  ],
+  "img_rate_thr": 0.6,
+  "iof_thr": 0.7,
+  "no_padding": false,
+  "padding_value": [
+    104,
+    116,
+    124
+  ],
+  "save_dir": "/T2007061/CTGUdataset/object_detection/CTGUdetec_split/trainval/",
+  "save_ext": ".png"
+}
