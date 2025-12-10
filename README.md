@@ -3,6 +3,8 @@
 ## Abstract
 Recent backbone networks tailored for remote sensing images mainly rely on larger receptive fields or multi-scale convolutions to enhance feature extraction. However, they overlook the layer-wise variation in importance of different kernel sizes, limiting their adaptability to fine-grained textures in shallow layers and complex semantics in deeper layers. We propose HAKSNet that dynamically selects optimal kernel sizes and spatial attention at each layer. A dedicated redundancy suppression mechanism using partial convolution and gating further reduces background noise typical in RSIs. Extensive experiments on four challenging benchmarks across object detection, semantic segmentation, and change detection demonstrate HAKSNet’s superior performance and strong generalization. 
 
+
+## Method
 <div align="center">
   <img src="./method.png" width="95%">
 </div>
