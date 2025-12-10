@@ -19,45 +19,14 @@ Recent backbone networks tailored for remote sensing images mainly rely on large
 ### DOTA-v1.0-SS
 | Model | mAP | Angle | Aug | Configs | Download |
 |-------|------|--------|--------|----------|-----------|
-| HAKSNet-T (1024,1024,200) | **79.28** | le90 | - | [haks-t_fpn_dotav1_le90](https://pan.baidu.com/s/1f5wcFRqVbRM16bBmlpRH7w?pwd=9nfa)（提取码: 9nfa) | [model](#) |
-| HAKSNet-S (1024,1024,200) | **80.20** | le90 | - | [haks-s_fpn_dotav1_le90](configs/haks/haks-s_fpn_dotav1_le90.py) | [model](#) |
+| HAKSNet-T (1024,1024,200) | **79.28** | le90 | - | [haks-t_fpn_dotav1_le90ss](https://pan.baidu.com/s/1f5wcFRqVbRM16bBmlpRH7w?pwd=9nfa)（提取码: 9nfa) | [model](https://pan.baidu.com/s/1KCITs2hSGPnC1rKaC0njPw?pwd=rvch)（提取码: rvch) |
+| HAKSNet-S (1024,1024,200) | **80.20** | le90 | - | [haks-s_fpn_dotav1_le90ss](configs/haks/haks-s_fpn_dotav1_le90.py) | [model](#) |
 
 ### DOTA-v1.0-MS
 | Model | mAP | Angle | Aug | Configs | Download |
 |-------|------|--------|--------|----------|-----------|
-| HAKSNet-T (1024,1024,200) | **81.16** | le90 | - | [haks-t_fpn_dotav1_le90](configs/haks/haks-t_fpn_dotav1_le90.py) | [model](#) |
-| HAKSNet-S (1024,1024,200) | **81.86** | le90 | - | [haks-s_fpn_dotav1_le90](configs/haks/haks-s_fpn_dotav1_le90.py) | [model](#) |
+| HAKSNet-T (1024,1024,200) | **81.16** | le90 | - | [haks-t_fpn_dotav1_le90ms](configs/haks/haks-t_fpn_dotav1_le90.py) | [model](#) |
+| HAKSNet-S (1024,1024,200) | **81.86** | le90 | - | [haks-s_fpn_dotav1_le90ms](configs/haks/haks-s_fpn_dotav1_le90.py) | [model](#) |
 
 ---
 
-### DOTA-v1.5
-| Model | mAP | Angle | Aug | Configs | Download |
-|-------|------|--------|--------|----------|-----------|
-| HAKSNet-S (1024,1024,200) | **XX.XX** | le90 | - | [haks-s_fpn_dotav15_le90](configs/haks/haks-s_fpn_dotav15_le90.py) | [model](#) |
-
----
-
-### HRSC2016
-| Model | mAP | Angle | Aug | Configs | Download |
-|-------|------|--------|--------|----------|-----------|
-| HAKSNet-S | **XX.XX** | le90 | - | [haks-s_fpn_hrsc_le90](configs/haks/haks-s_fpn_hrsc_le90.py) | [model](#) |
-
----
-
-### FAIR1M
-| Model | mAP | Angle | Aug | Configs | Download |
-|-------|------|--------|--------|----------|-----------|
-| HAKSNet-T | **XX.XX** | le90 | - | [haks-t_fpn_fair_le90](configs/haks/haks-t_fpn_fair_le90.py) | [model](#) |
-
----
-
-## Citation
-If you find HAKSNet helpful, please cite our work:
-
-```bibtex
-@article{your2025haksnet,
-  title={HAKSNet: Hierarchical Adaptive Kernel-Spatio Network for Remote Sensing Visual Tasks},
-  author={Your Name},
-  journal={Journal / Conference},
-  year={2025}
-}
