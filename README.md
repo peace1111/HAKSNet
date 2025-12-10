@@ -28,3 +28,10 @@ Recent backbone networks tailored for remote sensing images mainly rely on large
 | HAKSNet-T (1024,1024,200)        | **81.16** | le90  | [haks-t_fpn_dotav1_le90ms](https://pan.baidu.com/s/1zkktB4rznn_y7HJPC1tSmg?pwd=r8ij)（提取码: r8ij) | [model](https://pan.baidu.com/s/1hiM5rhDfxCW3kJkBiFQ5yg?pwd=qr2d)（提取码: qr2d)             |
 | HAKSNet-S (1024,1024,200)        | **81.86** | le90  | [haks-s_fpn_dotav1_le90ms](https://pan.baidu.com/s/1UhKdByM3h-eroMVNjIbREw?pwd=yug5)（提取码: yug5) | [model](https://pan.baidu.com/s/1Wa0_H6qqbSUJZrXCraITrQ?pwd=sau6)（提取码: sau6)             |
 
+### **DOTA-v1.5**
+| Model | mAP | Angle | Configs | Download |
+|-------|------|--------|--------|----------|-----------|
+| HAKSNet-S-ss (1024,1024,200) | **73.12** | le90 | [config](https://github.com/peace1111/HAKSNet/edit/main/README.md) | [model](https://github.com/peace1111/HAKSNet/edit/main/README.md) |
+| HAKSNet-S-ms (1024,1024,200) | **77.56** | le90 | [config](https://github.com/peace1111/HAKSNet/edit/main/README.md) | [model](https://github.com/peace1111/HAKSNet/edit/main/README.md) |
+
+
