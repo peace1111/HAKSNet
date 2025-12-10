@@ -1,4 +1,4 @@
-# HAKSNet: Hierarchical Adaptive Kernel-Spatio Network for Remote Sensing Visual Tasks
+# HAKSNet: Hierarchical Adaptive Kernel-Spatio Network for Remote Sensing Object Detection
 
 ## Abstract
 Recent backbone networks tailored for remote sensing images mainly rely on larger receptive fields or multi-scale convolutions to enhance feature extraction. However, they overlook the layer-wise variation in importance of different kernel sizes, limiting their adaptability to fine-grained textures in shallow layers and complex semantics in deeper layers. We propose HAKSNet that dynamically selects optimal kernel sizes and spatial attention at each layer. A dedicated redundancy suppression mechanism using partial convolution and gating further reduces background noise typical in RSIs. Extensive experiments on four challenging benchmarks across object detection, semantic segmentation, and change detection demonstrate HAKSNet’s superior performance and strong generalization. 
@@ -6,8 +6,11 @@ Recent backbone networks tailored for remote sensing images mainly rely on large
 ## Results and Models
 
 ### Pretrained Models
-- ImageNet pretrained HAKSNet-T backbone: **[Download](#)**  
-- ImageNet pretrained HAKSNet-S backbone: **[Download](#)**  
+- ImageNet pretrained **HAKSNet-T** backbone:  
+  👉 [Download](https://github.com/)  
+
+- ImageNet pretrained **HAKSNet-S** backbone:  
+  👉 [Download](https://github.com/)  
 
 ---
 
