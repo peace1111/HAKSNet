@@ -7,7 +7,7 @@ Recent backbone networks tailored for remote sensing images mainly rely on large
 
 ### Pretrained Models
 - ImageNet pretrained **HAKSNet-T** backbone:  
-  👉 [Download](https://github.com/)  
+  👉 [Download](https://pan.baidu.com/s/1el7v8DrMlwtrHBQAqDt-oA?pwd=qc4r)  （提取码: qc4r）
 
 - ImageNet pretrained **HAKSNet-S** backbone:  
   👉 [Download](https://github.com/)  
