@@ -20,13 +20,12 @@ Recent backbone networks tailored for remote sensing images mainly rely on large
 | Model | mAP | Angle | Aug | Configs | Download |
 |-------|------|--------|--------|----------|-----------|
 | HAKSNet-T (1024,1024,200) | **79.28** | le90 | - | [haks-t_fpn_dotav1_le90ss](https://pan.baidu.com/s/1f5wcFRqVbRM16bBmlpRH7w?pwd=9nfa)（提取码: 9nfa) | [model](https://pan.baidu.com/s/1KCITs2hSGPnC1rKaC0njPw?pwd=rvch)（提取码: rvch) |
-| HAKSNet-S (1024,1024,200) | **80.20** | le90 | - | [haks-s_fpn_dotav1_le90ss](configs/haks/haks-s_fpn_dotav1_le90.py) | [model](#) |
+| HAKSNet-S (1024,1024,200) | **80.20** | le90 | - | [haks-s_fpn_dotav1_le90ss](https://pan.baidu.com/s/1uAT53xznjYeq_a7x15L22A?pwd=ijv1)（提取码: ijv1) | [model](https://pan.baidu.com/s/1KFzwAWkfxWB3lyV4YqIPCw?pwd=ke7a)（提取码: ke7a) |
 
 ### DOTA-v1.0-MS
 | Model | mAP | Angle | Aug | Configs | Download |
 |-------|------|--------|--------|----------|-----------|
-| HAKSNet-T (1024,1024,200) | **81.16** | le90 | - | [haks-t_fpn_dotav1_le90ms](configs/haks/haks-t_fpn_dotav1_le90.py) | [model](#) |
-| HAKSNet-S (1024,1024,200) | **81.86** | le90 | - | [haks-s_fpn_dotav1_le90ms](configs/haks/haks-s_fpn_dotav1_le90.py) | [model](#) |
-
+| HAKSNet-T (1024,1024,200) | **81.16** | le90 | - | [haks-t_fpn_dotav1_le90ms](https://pan.baidu.com/s/1zkktB4rznn_y7HJPC1tSmg?pwd=r8ij)（提取码: r8ij) | [model](https://pan.baidu.com/s/1hiM5rhDfxCW3kJkBiFQ5yg?pwd=qr2d)（提取码: qr2d) |
+| HAKSNet-S (1024,1024,200) | **81.86** | le90 | - | [haks-s_fpn_dotav1_le90ms](https://pan.baidu.com/s/1UhKdByM3h-eroMVNjIbREw?pwd=yug5)（提取码: yug5) | [model](https://pan.baidu.com/s/1Wa0_H6qqbSUJZrXCraITrQ?pwd=sau6)（提取码: sau6) |
 ---
 
